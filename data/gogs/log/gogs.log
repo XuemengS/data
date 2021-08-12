@@ -1,0 +1,19 @@
+2021/08/12 11:43:34 [ INFO] Gogs 0.13.0+dev
+2021/08/12 11:43:34 [ INFO] Git config user.name set to Gogs
+2021/08/12 11:43:34 [ INFO] Git config user.email set to gogs@fake.local
+2021/08/12 11:43:34 [ INFO] Run mode: Production
+2021/08/12 11:43:34 [ INFO] SSH server started on 0.0.0.0:10022
+2021/08/12 11:43:34 [ INFO] First-time run install finished!
+2021/08/12 11:43:50 [ INFO] New random avatar created: 2
+2021/08/12 12:19:41 [ INFO] Gogs 0.13.0+dev
+2021/08/12 12:19:41 [ INFO] Run mode: Production
+2021/08/12 12:19:41 [ INFO] SSH server started on 0.0.0.0:10022
+2021/08/12 12:19:42 [ INFO] Listen on http://0.0.0.0:3000
+2021/08/12 18:01:48 [ INFO] Gogs 0.13.0+dev
+2021/08/12 18:01:48 [ INFO] Run mode: Production
+2021/08/12 18:01:48 [ INFO] SSH server started on 0.0.0.0:10022
+2021/08/12 18:01:48 [ INFO] Listen on http://0.0.0.0:3000
+2021/08/12 18:13:41 [ INFO] Gogs 0.13.0+dev
+2021/08/12 18:13:41 [ INFO] Run mode: Production
+2021/08/12 18:13:41 [ INFO] SSH server started on 0.0.0.0:10022
+2021/08/12 18:13:42 [ INFO] Listen on http://0.0.0.0:3000
